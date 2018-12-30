@@ -1,7 +1,7 @@
 ! Title: Steam Platform Scammer Sites
-! Last modified: 28 Dec 2018
+! Last modified: 30 Dec 2018
 ! Filter page: https://github.com/PoorPocketsMcNewHold/steamscamsite
-! Original list : https://github.com/wishihab/steamscamsite
+! Original list: https://github.com/wishihab/steamscamsite
 
 !--- Blocklist
 http://case-market.com
@@ -104,3 +104,72 @@ https://tf2dark.com
 https://tf2euro.com
 https://tf2violet.com
 https://skinstats.net
+! ↓ Sourced from https://github.com/AegisTeam/Discord-Resources ↓
+easter-event.com
+steam-community.com
+mysteamgames.co
+steamspecial.com
+steamreward.com
+freesteamkeys.com
+steamcodegenerator.online
+steam-wallet.co
+steam-wallet.com
+steamwallet-codes.com
+freesteamcodes.gripbuilds.com
+steam-rewards.com
+steamsummer.com
+steamlimited.com
+steampromote.com
+steamreserved.com
+steam-codes.com
+steamquests.com
+gift.steamchristmas.com
+codes.steamquests.com
+freesteamcodes.net
+steamingame.com
+mysteamgifts.com
+steaminstant.com
+steamaccess.com
+steamexplorer.com
+steampowers.net
+getsteamgifts.com
+steamgiftcodes.com
+steamgifts.eu
+steam-wallet-gifts.com
+steam-wallet-money.com
+gameminer.ru
+steamwalletgiftcards.com
+steamwallet.com
+steampresent.com
+steamkeygiveaway.com
+steaminvitation.com
+steamhalloween.net
+steamhalloween.com
+steamgives.com
+steamgamesnetwork.net.com
+steamgamesnetwork.com
+steamfeatured.com
+steamcode.org
+steamchristmas.to
+steamchristmas.com
+steamcard.ru
+steambonus.com
+steam-wallet-funds.com
+steam-wallet-cards.com
+iyfnzgb.com
+steam-key-giveaway.com
+steam-halloween.com
+steam-free-games.com
+steam-cube.com
+steam-cards.com
+steam-cards-promo.com
+skinsnice.com
+simplo.gg
+share4steam.com
+steamkeysgames.org
+steamkeysgame.gifts
+freekeys.win
+free-gg.com
+sleemconmuguiljy.xyz
+sleemconmuhljliy.xyz
+sleemconmuhjhily.xyz
