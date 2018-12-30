@@ -1,7 +1,7 @@
 ! Title: Steam Platform Scammer Sites
-! Last modified: 28 Dec 2018
+! Last modified: 30 Dec 2018
 ! Filter page: https://github.com/PoorPocketsMcNewHold/steamscamsite
-! Original list : https://github.com/wishihab/steamscamsite
+! Original list: https://github.com/wishihab/steamscamsite
 
 !--- Blocklist
 http://case-market.com
