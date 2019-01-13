@@ -14,7 +14,7 @@ This hasn't been acknowledged by the original creator of this list yet.
 ![image](https://framapic.org/7oPRh1CiUBVX/OhVEtvDCYHcJ)
 Il s'agit d'un dépot de liste de filtres, basé sur la [wishihab/steamscamsite scam list](https://github.com/wishihab/steamscamsite), ainsi que sur la [Aegis Team domains list](https://github.com/AegisTeam/Discord-Resources), ceux rapportés dans ce [Counter-Strike Gambling blog](https://csgobet.click/csgobet-scamdb-be-aware-of-csgo-scam-websites), avec un des quelques autres sites que j'ai personnellement trouvé.
 
-Vous pouvez l'installer en cliquant sur le lien suivant, il devrait faire en sorte que votre bloqueur de publicités vous propose, d'ajouter cette liste de filtres personnalisée : (C'est ce lien là dont je parle)(https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt&title=SteamPlatformScammerSites)
+Vous pouvez l'installer en cliquant sur le lien suivant, il devrait faire en sorte que votre bloqueur de publicités vous propose, d'ajouter cette liste de filtres personnalisée : [C'est ce lien là dont je parle](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt&title=SteamPlatformScammerSites)
 ou l'ajouter manuellement à partir de ce lien : https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt
 
 [Cette liste fonctionne aussi bien sous un serveur Pi-hole, Bien qu'elle est ajoutée comme une liste Adblock, elle fonctionne parfaitement sur mon serveur DNS](https://pi-hole.net).
@@ -50,7 +50,7 @@ Esto no ha sido reconocido por el creador original de esta lista todavía.
 ![image](https://framapic.org/ZSiq9jqwHTSN/gEDbiai4bR4A)
 Este é um repositório de lista de filtros, baseado na [wishihab/steamscamsite scam list](https://github.com/wishihab/steamscamsite), bem como na [Aegis Team domains list](https://github.com/AegisTeam/Discord-Resources), aqueles relatados neste [Counter-Strike Gambling blog](https://csgobet.click/csgobet-scamdb-be-aware-of-csgo-scam-websites), com alguns sites de scam encontrados pessoalmente.
 
-Você pode instalá-lo clicando no seguinte link, ele deve fazer o seu bloqueador de anúncios propor-lhe, para adicionar esta lista de filtro personalizado: Este é o seguinte link que estou falando](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt&title=SteamPlatformScammerSites)
+Você pode instalá-lo clicando no seguinte link, ele deve fazer o seu bloqueador de anúncios propor-lhe, para adicionar esta lista de filtro personalizado: [Este é o seguinte link que estou falando](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt&title=SteamPlatformScammerSites)
 ou adicioná-lo manualmente a partir deste link de arquivo raw: https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt
 
 [Esta lista também funciona bem em um servidor Pi-hole, Apesar de ter sido adicionada como uma lista Adblock por ele, ela funciona perfeitamente no meu servidor DNS.](https://pi-hole.net)
@@ -74,7 +74,7 @@ Questo non è stato ancora riconosciuto dal creatore originale di questa lista.
 ![image](https://framapic.org/A695Y4w5BK3W/U9cvfDF2fjnH)
 Dit is een filterlijst repository, gebaseerd op de [wishihab/steamscamsite scam list](https://github.com/wishihab/steamscamsite), alsook op de [Aegis Team domains list](https://github.com/AegisTeam/Discord-Resources), die gerapporteerd in deze [Counter-Strike Gambling blog](https://csgobet.click/csgobet-scamdb-be-aware-of-csgo-scam-websites), met een aantal persoonlijk gevonden scam websites.
 
-U kunt het installeren door op de volgende link te klikken, het zou uw advertentieblokker u moeten voorstellen, om deze aangepaste filterlijst toe te voegen: Dit is de volgende link waar ik het over heb](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt&title=SteamPlatformScammerSites)
+U kunt het installeren door op de volgende link te klikken, het zou uw advertentieblokker u moeten voorstellen, om deze aangepaste filterlijst toe te voegen: [Dit is de volgende link waar ik het over heb](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt&title=SteamPlatformScammerSites)
 of voeg het handmatig toe vanaf deze ruwe bestandslink: https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt
 
 [Deze lijst werkt ook goed onder een Pi-hole server, Ondanks dat het als Adblock lijst is toegevoegd, werkt het feilloos op mijn DNS server.](https://pi-hole.net)
