@@ -91,6 +91,8 @@ cs.money
 csgojavelin.pro/giveaway	 
 dota2.money
 brabusdrop.life
+clc.am/freeXskin
+csgoxprom.online
 !--- Custom Domains
 tf2pounce.com
 tf2winner.com
