@@ -1,5 +1,13 @@
+[![star this repo](http://githubbadges.com/star.svg?user=PoorPocketsMcNewHold&repo=SteamScamSite&style=default&color=fff&background=7851a9)](https://github.com/PoorPocketsMcNewHold/SteamScamSite)
+[![fork this repo](http://githubbadges.com/fork.svg?user=PoorPocketsMcNewHold&repo=SteamScamSite&style=default&color=fff&background=7851a9)](https://github.com/PoorPocketsMcNewHold/SteamScamSite/fork)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![DepShield Badge](https://depshield.sonatype.org/badges/PoorPocketsMcNewHold/SteamScamSite/depshield.svg)](https://depshield.github.io)
+[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+![Active](https://img.shields.io/badge/status-active-brightgreen.svg)
 ![image](https://framapic.org/XprgGyiD7pYa/F7rIN7GvlLBz)
 ![image](https://framapic.org/11F3Xe1XL2f1/6VN7ZVlcmrfF)
+https://img.shields.io/twitter/url/https/github.com/PoorPocketsMcNewHold/SteamScamSite.svg?style=social
 This is a filter list repository, based on the [wishihab/steamscamsite scam list](https://github.com/wishihab/steamscamsite), as well from the [Aegis Team domains list](https://github.com/AegisTeam/Discord-Resources), those reported in this [Counter-Strike Gambling blog](https://csgobet.click/csgobet-scamdb-be-aware-of-csgo-scam-websites), with a couple of personally found scam websites.
 
 You can install it by clicking on the following link, it should make your ad blocker propose you, to add this custom filter list: [This is the following link I'm talking about](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt&title=SteamPlatformScammerSites)
@@ -118,3 +126,5 @@ or add it manually from disa raw file link: https://raw.githubusercontent.com/Po
 Accord to dha faq, all of these websites should be scam websites. If yousa wish to submit yous own scam website, yous issues with dha reported list in itself (not dha filter list), it would be preferable to send it on dha original list repo, or send it to wishihab@gmail.com https://steamcommunity.com/id/wishihab
 but feel free to contact mesa as well, in case yousa just want it removed from disa particular list.
 Disa hasn't been acknowledged by dha original creator of disa list yet
+
+License : All Rights Reserved
