@@ -2,12 +2,16 @@
 [![fork this repo](http://githubbadges.com/fork.svg?user=PoorPocketsMcNewHold&repo=SteamScamSite&style=default&color=fff&background=7851a9)](https://github.com/PoorPocketsMcNewHold/SteamScamSite/fork)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![DepShield Badge](https://depshield.sonatype.org/badges/PoorPocketsMcNewHold/SteamScamSite/depshield.svg)](https://depshield.github.io)
-[![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/uses-badges.svg)](https://forthebadge.com)
+[![Pi-hole® Support](https://img.shields.io/badge/Pi--hole%C2%AE-supported-9A0100.svg)](https://pi-hole.net)
 ![Active](https://img.shields.io/badge/status-active-brightgreen.svg)
+![Last commit](https://img.shields.io/github/last-commit/PoorPocketsMcNewHold/SteamScamSite.svg)
+[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://github.com/PoorPocketsMcNewHold)
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/PoorPocketsMcNewHold)
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/PoorPocketsMcNewHold)
+[![Do What the Fuck You Want to Public License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)](http://www.wtfpl.net)
 ![image](https://framapic.org/XprgGyiD7pYa/F7rIN7GvlLBz)
 ![image](https://framapic.org/11F3Xe1XL2f1/6VN7ZVlcmrfF)
-https://img.shields.io/twitter/url/https/github.com/PoorPocketsMcNewHold/SteamScamSite.svg?style=social
+
 This is a filter list repository, based on the [wishihab/steamscamsite scam list](https://github.com/wishihab/steamscamsite), as well from the [Aegis Team domains list](https://github.com/AegisTeam/Discord-Resources), those reported in this [Counter-Strike Gambling blog](https://csgobet.click/csgobet-scamdb-be-aware-of-csgo-scam-websites), with a couple of personally found scam websites.
 
 You can install it by clicking on the following link, it should make your ad blocker propose you, to add this custom filter list: [This is the following link I'm talking about](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt&title=SteamPlatformScammerSites)
@@ -130,4 +134,4 @@ Disa hasn't been acknowledged by dha original creator of disa list yet
 Copyright © 2019 Goral Kévin Poorpocketsmcnewhold@pm.me
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 2,
-as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
+as published by Sam Hocevar. See LICENSE for more details.
