@@ -127,4 +127,7 @@ Accord to dha faq, all of these websites should be scam websites. If yousa wish 
 but feel free to contact mesa as well, in case yousa just want it removed from disa particular list.
 Disa hasn't been acknowledged by dha original creator of disa list yet
 
-License : All Rights Reserved
+Copyright © 2019 Goral Kévin Poorpocketsmcnewhold@pm.me
+This work is free. You can redistribute it and/or modify it under the
+terms of the Do What The Fuck You Want To Public License, Version 2,
+as published by Sam Hocevar. See http://www.wtfpl.net/ for more details.
