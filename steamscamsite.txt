@@ -1,5 +1,5 @@
 ! Title: Steam Scam Site
-! Last modified: 29 Jan 2019
+! Last modified: 05 Feb 2019
 ! Filter page: https://github.com/PoorPocketsMcNewHold/steamscamsite
 ! Original list: https://github.com/wishihab/steamscamsite
 
@@ -85,16 +85,18 @@ steampowerod.com
 market.steampowerod.com
 gitcoin.su
 dropxskin.com
-csgoden.pro/giveaway
+csgoden.pro
 csgodoubt.pro
 cs.money
-csgojavelin.pro/giveaway	 
+csgojavelin.pro 
 dota2.money
 brabusdrop.life
-clc.am/freeXskin
+clc.am
 csgoxprom.online
 csmoneyloot.online
 csgox5-skins.pro
+dota2-land.info
+dota2-land.com
 !--- Custom Domains
 tf2pounce.com
 tf2winner.com
@@ -151,6 +153,7 @@ drakewing.trade
 quick-exchange.com
 frodotrade.com
 dopplerxcash.com
+savescreen.space
 ! ↓ Sourced from https://csgobet.click/csgobet-scamdb-be-aware-of-csgo-scam-websites/ ↓
 csgofasthack.hostingas.in
 www.csgocape.com/games
