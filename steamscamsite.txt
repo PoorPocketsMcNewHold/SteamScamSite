@@ -2,10 +2,10 @@
 ! Last modified: 09 Feb 2019
 ! License: Do What The F*ck You Want To Public License
 ! Expires: 7 days
-! Homepage: https://poorpocketsmcnewhold.github.io/SteamScamSite/
+! Homepage: https://poorpocketsmcnewhold.github.io/SteamScamSite
 ! Filter page: https://github.com/PoorPocketsMcNewHold/steamscamsite
 ! Original list: https://github.com/wishihab/steamscamsite
-! Issues: Report your issue at the dedied local list in question or take contact with me on GitHub https://github.com/PoorPocketsMcNewHold
+! Issues: Report your issue at the dedicated list in question or take contact with me on GitHub https://github.com/PoorPocketsMcNewHold
 
 !--- Blocklist
 case-market.com
