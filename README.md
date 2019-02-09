@@ -7,6 +7,7 @@
 [![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://github.com/PoorPocketsMcNewHold)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/PoorPocketsMcNewHold)
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/PoorPocketsMcNewHold)
+![Qualité française](https://github.com/PoorPocketsMcNewHold/SteamScamSite/blob/master/dist/france.svg)
 [![Do What the Fuck You Want to Public License](http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-2.png)](http://www.wtfpl.net)
 ![image](https://framapic.org/XprgGyiD7pYa/F7rIN7GvlLBz)
 ![image](https://framapic.org/11F3Xe1XL2f1/6VN7ZVlcmrfF)
