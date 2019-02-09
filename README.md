@@ -19,6 +19,8 @@ or add it manually from this raw file link: https://raw.githubusercontent.com/Po
 
 [This list also works well under a Pi-hole server, Despite being added as an Adblock list by it, It works flawlessly on my DNS server.](https://pi-hole.net)
 
+A light version is also available, The ashes version ! It delete all the comments from the main list, and try to remove all the down and dead domains still present in the main list. [Here where you can subscribe to it](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes&title=SteamPlatformScammerSitesAshesVersion), and here's where you can find it's raw link: https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes
+
 According to the FAQ, all of these websites should be scam websites. If you wish to submit your own scam website, your issues with the reported list in itself (Not the filter list), It would be preferable to send it on the original list repo, or send it to wishihab@gmail.com https://steamcommunity.com/id/wishihab
 But feel free to contact me as well, in case you just want it removed from this particular list. 
 This hasn't been acknowledged by the original creator of this list yet.
@@ -30,6 +32,8 @@ Vous pouvez l'installer en cliquant sur le lien suivant, il devrait faire en sor
 ou l'ajouter manuellement à partir de ce lien : https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt
 
 [Cette liste fonctionne aussi bien sous un serveur Pi-hole, Bien qu'elle est ajoutée comme une liste Adblock, elle fonctionne parfaitement sur mon serveur DNS](https://pi-hole.net).
+
+Une version allégée est disponible, la version cendres ! Il supprime tout les commentaires la version principale, et essaye de retirer tout les domaines mort, ou hors-ligne toujours présent dans la liste principale. [Voici où vous pourrez l'installer](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes&title=SteamPlatformScammerSitesAshesVersion), et voici où vous trouverez son lien brut: https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes
 
 Selon la FAQ, tous ces sites Web devraient être des sites d'escroqueries. Si vous souhaitez soumettre votre propre site Web d'escroqueries, des problèmes avec la liste en elle-même (pas la liste de filtres), il serait préférable de de demander cela sur la liste originale du dépot, ou l'envoyer à wishihab@gmail.com https://steamcommunity.com/id/wishihab
 Mais n'hésitez pas à me contacter aussi, au cas où vous voudriez simplement le supprimer de cette liste particulière. 
@@ -43,6 +47,8 @@ oder fügen Sie es manuell von diesem Link zur Rohdatei hinzu: https://raw.githu
 
 [Diese Liste funktioniert auch gut unter einem Pi-Loch-Server, obwohl sie von ihm als Adblock-Liste hinzugefügt wurde, funktioniert sie einwandfrei auf meinem DNS-Server.](https://pi-hole.net)
 
+Eine leichte Version ist ebenfalls erhältlich, die Aschenversion ! Es löscht alle Kommentare aus der Hauptliste und versucht, alle noch in der Hauptliste vorhandenen Down und Dead Domains zu entfernen. [Hier können Sie es abonnieren](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes&title=SteamPlatformScammerSitesAshesVersion), und hier finden Sie den rohen Link: https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes 
+
 Gemäß den FAQs sollten alle diese Websites Betrugs-Websites sein. Wenn Sie Ihre eigene Betrugs-Website, Ihre Probleme mit der gemeldeten Liste an sich (nicht die Filterliste) einreichen möchten, wäre es besser, sie auf dem ursprünglichen Listen-Repo zu senden, oder sie an wishihab@gmail.com https://steamcommunity.com/id/wishihab zu senden.
 Aber zögern Sie nicht, mich auch zu kontaktieren, falls Sie nur möchten, dass es von dieser speziellen Liste entfernt wird. 
 Dies wurde vom ursprünglichen Ersteller dieser Liste noch nicht bestätigt.
@@ -54,6 +60,8 @@ Puede instalarlo haciendo clic en el siguiente enlace, debería hacer que su blo
 o añádalo manualmente desde este enlace de archivo sin procesar: https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt
 
 [Esta lista también funciona bien bajo un servidor Pi-hole, a pesar de haber sido añadido como una lista Adblock por él, funciona perfectamente en mi servidor DNS](https://pi-hole.net)
+
+También está disponible una versión ligera, ¡La versión ceniza! Elimina todos los comentarios de la lista principal e intenta eliminar todos los dominios muertos o inactivos que aún estén presentes en la lista principal. [Aquí donde puedes suscribirte y](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes&title=SteamPlatformScammerSitesAshesVersion), aquí es donde puedes encontrar su enlace en bruto: https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes 
 
 De acuerdo con las preguntas frecuentes, todos estos sitios web deben ser sitios web fraudulentos. Si desea enviar su propio sitio web de estafa, sus problemas con la lista reportada en sí misma (No la lista de filtros), sería preferible enviarla en la lista original de reposición, o enviarla a wishihab@gmail.com https://steamcommunity.com/id/wishihab
 Pero siéntete libre de contactarme también, en caso de que sólo quieras que se elimine de esta lista en particular. 
@@ -67,6 +75,8 @@ ou adicioná-lo manualmente a partir deste link de arquivo raw: https://raw.gith
 
 [Esta lista também funciona bem em um servidor Pi-hole, Apesar de ter sido adicionada como uma lista Adblock por ele, ela funciona perfeitamente no meu servidor DNS.](https://pi-hole.net)
 
+Uma versão light também está disponível, A versão das cinzas ! Ela apaga todos os comentários da lista principal, e tenta remover todos os domínios abaixo e mortos ainda presentes na lista principal. [Aqui é onde você pode se inscrever](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes&title=SteamPlatformScammerSitesAshesVersion), e aqui é onde você pode encontrar o link raw: https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes 
+
 De acordo com o FAQ, todos esses sites devem ser sites de fraude. Se você deseja enviar seu próprio site de scam, seus problemas com a lista relatada em si (Não a lista de filtro), seria preferível enviá-lo na lista original repo, ou enviá-lo para wishihab@gmail.com https://steamcommunity.com/id/wishihab
 Mas sinta-se à vontade para me contactar também, caso queira que ele seja removido desta lista em particular. 
 Isto ainda não foi reconhecido pelo criador original desta lista.
@@ -78,6 +88,8 @@ Questo è un repository della lista dei filtri, basato sulla [wishihab/steamscam
 o aggiungerlo manualmente da questo link al file raw: https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt
 
 [Questa lista funziona bene anche sotto un server Pi-hole, nonostante sia stata aggiunta come lista Adblock da essa, funziona perfettamente sul mio server DNS.](https://pi-hole.net)
+
+E' disponibile anche una versione leggera, La versione cenere ! Cancella tutti i commenti dalla lista principale, e cerca di rimuovere tutti i domini down e dead presenti nella lista principale. [Qui dove puoi iscriverti](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes&title=SteamPlatformScammerSitesAshesVersion), ed ecco dove puoi trovare il suo link grezzo: https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes 
 
 Secondo le FAQ, tutti questi siti web dovrebbero essere siti di truffa. Se si desidera inviare il proprio sito web truffa, i problemi con la lista segnalata in sé (non la lista dei filtri), sarebbe preferibile inviarlo nella lista originale repo, o inviarlo a wishihab@gmail.com https://steamcommunity.com/id/wishihab 
 Ma sentitevi liberi di contattare anche me, nel caso in cui vogliate solo che venga rimosso da questa particolare lista. 
@@ -91,6 +103,8 @@ of voeg het handmatig toe vanaf deze ruwe bestandslink: https://raw.githubuserco
 
 [Deze lijst werkt ook goed onder een Pi-hole server, Ondanks dat het als Adblock lijst is toegevoegd, werkt het feilloos op mijn DNS server.](https://pi-hole.net)
 
+Er is ook een lichte versie beschikbaar, de as versie ! Het verwijdert alle commentaren uit de hoofdlijst, en probeert alle down en dead domains die nog in de hoofdlijst aanwezig zijn te verwijderen. [Hier kunt u zich hierop abonneren](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes&title=SteamPlatformScammerSitesAshesVersion), en hier vindt u de ruwe link: https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes 
+
 Volgens de FAQ moeten al deze websites scam websites zijn. Als u uw eigen scam website, uw problemen met de gerapporteerde lijst op zich (niet de filterlijst) wilt indienen, verdient het de voorkeur om deze op de originele lijst repo te plaatsen, of naar wishihab@gmail.com https://steamcommunity.com/id/wishihab te sturen.
 Maar voel je vrij om ook contact met mij op te nemen, voor het geval je het gewoon van deze lijst verwijderd wilt hebben. 
 Dit is nog niet erkend door de oorspronkelijke maker van deze lijst.
@@ -102,6 +116,8 @@ Możesz go zainstalować klikając na poniższy link, to powinno sprawić, że r
 lub dodaj go ręcznie z tego surowego pliku: https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt
 
 [Ta lista działa również dobrze pod serwerem Pi-hole, Pomimo, że została dodana przez niego jako lista Adblock, działa bezbłędnie na moim serwerze DNS.](https://pi-hole.net)
+
+Dostępna jest również wersja lekka, wersja popiołowa ! Usuwa wszystkie komentarze z listy głównej i próbuje usunąć wszystkie domeny w dół i martwe domeny nadal obecne na liście głównej. [Tutaj, gdzie można się do niego zapisać](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes&title=SteamPlatformScammerSitesAshesVersion), a tutaj, gdzie można znaleźć jego surowy link: https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes
 
 Zgodnie z FAQ, wszystkie te strony powinny być stronami oszukańczymi. Jeśli chcesz przesłać własną stronę oszukańczą, swoje problemy z listą zgłoszoną jako taką (nie listę filtrów), lepiej byłoby wysłać ją na oryginalną listę repo, lub wysłać na adres wishihab@gmail.com https://steamcommunity.com/id/wishihab
 Ale nie krępuj się również skontaktować ze mną, na wypadek, gdybyś po prostu chciał, aby został usunięty z tej konkretnej listy. 
@@ -115,6 +131,8 @@ Nie zostało to jeszcze potwierdzone przez pierwotnego twórcę tej listy.
 
 [Этот список также хорошо работает под Pi-сервером, несмотря на то, что он добавлен в качестве Adblock списка, он работает безупречно на моем DNS сервере.](https://pi-hole.net)
 
+Также доступна облегченная версия, версия для пепла ! Он удаляет все комментарии из основного списка и пытается удалить все недоступные и мертвые домены, все еще присутствующие в основном списке. [Здесь вы можете подписаться на него](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes&title=SteamPlatformScammerSitesAshesVersion), а здесь вы найдете исходную ссылку: https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes
+
 Согласно часто задаваемым вопросам, все эти сайты должны быть мошенническими. Если вы хотите создать свой собственный мошеннический сайт, проблемы с сообщенным списком сами по себе (не со списком фильтров), желательно отправить его в первоначальное репо списка или отправить на wishihab@gmail.com https://steamcommunity.com/id/wishihab
 Но не стесняйтесь обращаться ко мне, если вы просто хотите удалить его из этого конкретного списка. 
 Это еще не было признано первоначальным создателем этого списка.
@@ -127,9 +145,24 @@ or add it manually from disa raw file link: https://raw.githubusercontent.com/Po
 
 [Disa list also works well under a pi-hole server, despite be added as an adblock list by it, it works flawlessly on mesa dns server.](https://pi-hole.net)
 
+A light version is also available, Da ashes version ! It delete all da comments from da main list, un try ta remove all da down un pasted domains still present inda main list. [Hair where yousa can subscribe ta it](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes&title=SteamPlatformScammerSitesAshesVersion), un here's where yousa can find it'sa raw link: https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes
+
 Accord to dha faq, all of these websites should be scam websites. If yousa wish to submit yous own scam website, yous issues with dha reported list in itself (not dha filter list), it would be preferable to send it on dha original list repo, or send it to wishihab@gmail.com https://steamcommunity.com/id/wishihab
 but feel free to contact mesa as well, in case yousa just want it removed from disa particular list.
 Disa hasn't been acknowledged by dha original creator of disa list yet
+
+![image](https://framapic.org/9HPdOtTYx7Tu/MJEX0h58ITHP.png)
+⠀⠀⠠⠹⠀⠊⠎⠀⠁⠀⠋⠊⠇⠞⠻⠀⠇⠊⠌⠀⠗⠑⠏⠕⠎⠊⠞⠕⠗⠽⠂ ⠃⠁⠎⠫⠀⠕⠝⠀⠮[⠺⠊⠩⠊⠓⠁⠃⠸⠌⠌⠂⠍⠎⠉⠁⠍⠎⠊⠞⠑⠀⠎⠉⠁⠍⠀⠇⠊⠌](https://github.com/wishihab/steamscamsite)⠀⠀⠵⠀⠺⠑⠇⠇⠀⠋⠀⠮ [⠠⠁⠑⠛⠊⠎⠀⠠⠞⠂⠍⠀⠙⠕⠍⠁⠔⠎⠀⠇⠊⠌⠂](https://github.com/AegisTeam/Discord-Resources)⠀⠀⠹⠀⠗⠑⠏⠕⠗⠞⠫⠀⠔⠀⠹ [⠠⠉⠨⠞⠻⠤⠠⠌⠗⠊⠅⠑⠀⠠⠛⠁⠍⠃⠇⠬⠀⠃⠇⠕⠛⠂](https://csgobet.click/csgobet-scamdb-be-aware-of-csgo-scam-websites)⠀⠀⠾⠁⠀⠉|⠏⠇⠑⠀⠷⠀⠏⠻⠎⠕⠝⠠⠽⠀⠋⠨⠙⠀⠎⠉⠁⠍ ⠺⠑⠃⠎⠊⠞⠑⠎⠲
+
+⠀⠀⠠⠽⠀⠉⠀⠔⠌⠁⠇⠇⠀⠭⠀⠴⠉⠇⠊⠉⠅⠬⠀⠕⠝⠀⠮ ⠋⠕⠇⠇⠪⠬⠀⠇⠔⠅⠂⠀⠭⠀⠩⠙⠀⠍⠁⠅⠑⠀⠽⠗⠀⠁⠙ ⠃⠇⠕⠉⠅⠻⠀⠏⠗⠕⠏⠕⠎⠑⠀⠽⠂⠀⠖⠁⠙⠙⠀⠹⠀⠉⠥⠌⠕⠍ ⠋⠊⠇⠞⠻⠀⠇⠊⠌⠒ [⠠⠹⠀⠊⠎⠀⠮⠀⠋⠕⠇⠇⠪⠬⠀⠇⠔⠅⠀⠠⠊⠄⠍⠀⠞⠁⠇⠅⠬ ⠁⠃](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt&title=SteamPlatformScammerSites)
+⠀⠀⠕⠗⠀⠁⠙⠙⠀⠭⠀⠍⠁⠝⠥⠠⠽⠀⠋⠀⠹⠀⠗⠁⠺⠀⠋⠊⠇⠑ ⠇⠔⠅⠒ https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt
+
+[⠀⠀⠠⠹⠀⠇⠊⠌⠀⠁⠇⠀⠐⠺⠎⠀⠺⠑⠇⠇⠀⠐⠥⠀⠁ ⠠⠏⠊⠤⠓⠕⠇⠑⠀⠎⠻⠧⠻⠂⠀⠠⠙⠑⠎⠏⠊⠞⠑⠀⠆⠬⠀⠁⠲⠫⠀⠵ ⠁⠝⠀⠠⠁⠙⠃⠇⠕⠉⠅⠀⠇⠊⠌⠀⠴⠭⠂⠀⠠⠭⠀⠐⠺⠎ ⠋⠇⠁⠺⠨⠎⠇⠽⠀⠕⠝⠀⠍⠽⠀⠠⠠⠙⠝⠎⠀⠎⠻⠧⠻⠲](https://pi-hole.net)
+
+⠀⠀⠠⠁⠀⠇⠊⠣⠞⠀⠧⠻⠨⠝⠀⠊⠎⠀⠁⠇⠀⠁⠧⠁⠊⠇⠁⠼⠂⠀⠠⠮ ⠁⠩⠑⠎⠀⠧⠻⠨⠝⠀`⠖⠀⠠⠭⠀⠙⠑⠇⠑⠞⠑⠀⠁⠇⠇⠀⠮ ⠤⠰⠞⠎⠀⠋⠀⠮⠀⠍⠁⠔⠀⠇⠊⠌⠂⠀⠯⠀⠞⠗⠽⠀⠖⠗⠑⠍⠕⠧⠑ ⠁⠇⠇⠀⠮⠀⠙⠪⠝⠀⠯⠀⠙⠂⠙⠀⠙⠕⠍⠁⠔⠎⠀⠌⠀⠏⠗⠑⠎⠢⠞ ⠔⠀⠮⠀⠍⠁⠔⠀⠇⠊⠌⠲ [⠠⠐⠓⠀⠐⠱⠀⠽⠀⠉⠀⠎⠥⠃⠎⠉⠗⠊⠃⠑⠀⠖⠭⠂](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes&title=SteamPlatformScammerSitesAshesVersion)⠀⠀⠯⠀⠐⠓⠄⠎⠀⠐⠱⠀⠽⠀⠉⠀⠋⠔⠙⠀⠭⠄⠎⠀⠗⠁⠺⠀⠇⠔⠅⠒ https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes
+
+⠀⠀⠠⠁⠉⠀⠖⠮⠀⠠⠠⠋⠁⠟⠂⠀⠁⠇⠇⠀⠷⠀⠮ ⠺⠑⠃⠎⠊⠞⠑⠎⠀⠩⠙⠀⠆⠀⠎⠉⠁⠍⠀⠺⠑⠃⠎⠊⠞⠑⠎⠲⠀⠠⠊⠋ ⠽⠀⠺⠊⠩⠀⠖⠎⠥⠃⠍⠊⠞⠀⠽⠗⠀⠪⠝⠀⠎⠉⠁⠍ ⠺⠑⠃⠎⠊⠞⠑⠂⠀⠽⠗⠀⠊⠎⠎⠥⠑⠎⠀⠾⠮⠀⠗⠑⠏⠕⠗⠞⠫ ⠇⠊⠌⠀⠔⠀⠭⠋⠀⠶⠠⠝⠀⠮⠀⠋⠊⠇⠞⠻⠀⠇⠊⠌⠶⠂⠀⠠⠭⠀⠺⠙ ⠆⠀⠏⠗⠑⠋⠻⠁⠼⠀⠖⠎⠢⠙⠀⠭⠀⠕⠝⠀⠮⠀⠕⠗⠊⠛⠔⠁⠇ ⠇⠊⠌⠀⠗⠑⠏⠕⠂⠀⠕⠗⠀⠎⠢⠙⠀⠭⠀⠞⠕ wishihab@gmail.com https://steamcommunity.com/id/wishihab
+⠠⠃⠀⠋⠑⠑⠇⠀⠋⠗⠑⠑⠀⠖⠒⠞⠁⠉⠞⠀⠍⠑⠀⠵⠀⠺⠑⠇⠇⠂ ⠔⠀⠉⠁⠎⠑⠀⠽⠀⠚⠀⠺⠁⠝⠞⠀⠭⠀⠗⠑⠍⠕⠧⠫⠀⠋⠀⠹ ⠐⠏⠊⠉⠥⠇⠜⠀⠇⠊⠌⠲⠀⠠⠹⠀⠓⠁⠎⠝⠄⠞⠀⠃⠑⠢ ⠁⠉⠐⠅⠇⠫⠛⠫⠀⠴⠮⠀⠕⠗⠊⠛⠔⠁⠇⠀⠉⠗⠂⠞⠕⠗⠀⠷⠀⠹ ⠇⠊⠌⠀⠽⠑⠞⠲
 
 Copyright © 2019 Goral Kévin Poorpocketsmcnewhold@pm.me
 This work is free. You can redistribute it and/or modify it under the
