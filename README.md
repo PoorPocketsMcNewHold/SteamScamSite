@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/367dd41f1f6943658ff4fbf547e2081a)](https://app.codacy.com/app/poorpocketsmcnewhold/SteamScamSite?utm_source=github.com&utm_medium=referral&utm_content=PoorPocketsMcNewHold/SteamScamSite&utm_campaign=Badge_Grade_Dashboard)
 [![star this repo](http://githubbadges.com/star.svg?user=PoorPocketsMcNewHold&repo=SteamScamSite&style=default&color=fff&background=7851a9)](https://github.com/PoorPocketsMcNewHold/SteamScamSite)
 [![fork this repo](http://githubbadges.com/fork.svg?user=PoorPocketsMcNewHold&repo=SteamScamSite&style=default&color=fff&background=7851a9)](https://github.com/PoorPocketsMcNewHold/SteamScamSite/fork)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
