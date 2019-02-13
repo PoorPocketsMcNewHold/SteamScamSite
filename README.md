@@ -127,16 +127,16 @@ Nie zostało to jeszcze potwierdzone przez pierwotnego twórcę tej listy.
 ![image](https://framapic.org/K4jsLW9LJPDI/9D2YpSup8j2a)
 Это хранилище списков фильтров, основанное на [wishihab/steamscamsite scam list](https://github.com/wishihab/steamscamsite), а также на [Aegis Team domains list](https://github.com/AegisTeam/Discord-Resources), о которых сообщается в этом [Counter-Strike Gambling blog](https://csgobet.click/csgobet-scamdb-be-aware-of-csgo-scam-websites), с парой лично найденных веб-сайтов.
 
-Вы можете установить его, перейдя по следующей ссылке, он должен заставить вашего рекламного блокатора предложить вам, чтобы добавить этот пользовательский список фильтров: [Я говорю о следующей ссылке](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt&title=SteamPlatformScammerSites)
+Вы можете установить его, перейдя по следующей ссылке. Он должен предложить вашему блокировщику рекламы добавить этот список в пользовательские фильтры: [Я говорю об этой ссылке](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt&title=SteamPlatformScammerSites)
 или добавить его вручную по ссылке на необработанный файл: https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsite/master/steamscamsite.txt
 
-[Этот список также хорошо работает под Pi-сервером, несмотря на то, что он добавлен в качестве Adblock списка, он работает безупречно на моем DNS сервере.](https://pi-hole.net)
+[Этот список также хорошо работает под Pi-hole сервером, несмотря на то, что он добавлен в качестве списка Adblock, он работает безупречно на моем DNS сервере.](https://pi-hole.net)
 
-Также доступна облегченная версия, версия для пепла ! Он удаляет все комментарии из основного списка и пытается удалить все недоступные и мертвые домены, все еще присутствующие в основном списке. [Здесь вы можете подписаться на него](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes&title=SteamPlatformScammerSitesAshesVersion), а здесь вы найдете исходную ссылку: https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes
+Также доступна облегченная версия, версия пепла! Он удаляет все комментарии из основного списка и пытается удалить все недоступные и мертвые домены, которые все еще присутствующие в основном списке. [Здесь вы можете подписаться на него](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes&title=SteamPlatformScammerSitesAshesVersion), а здесь вы найдете исходную ссылку: https://raw.githubusercontent.com/PoorPocketsMcNewHold/SteamScamSite/master/steamscamsitesashes
 
-Согласно часто задаваемым вопросам, все эти сайты должны быть мошенническими. Если вы хотите создать свой собственный мошеннический сайт, проблемы с сообщенным списком сами по себе (не со списком фильтров), желательно отправить его в первоначальное репо списка или отправить на wishihab@gmail.com https://steamcommunity.com/id/wishihab
-Но не стесняйтесь обращаться ко мне, если вы просто хотите удалить его из этого конкретного списка. 
-Это еще не было признано первоначальным создателем этого списка.
+Согласно часто задаваемым вопросам, все эти сайты должны быть мошенническими. Если вы хотите отправить свой собственный мошеннический веб-сайт, проблемы с сообщенным списком сами по себе (не со списком фильтров), желательно отправить его в первоначальное репо списка или отправить на wishihab@gmail.com https://steamcommunity.com/id/wishihab
+И не стесняйтесь обращаться ко мне, если вы просто хотите удалить его из этого списка. 
+Это еще не было подтверждено первоначальным создателем этого списка.
 
 ![image](https://framapic.org/6bPn40SUVvM8/zg1Qyb60a7aE)
 Disa is a filter list repository, based on dha [wishihab/steamscamsite scam list](https://github.com/wishihab/steamscamsite), as well from dha [Aegis Team domains list](https://github.com/AegisTeam/Discord-Resources), those reported in disa [Counter-Strike Gambling blog](https://csgobet.click/csgobet-scamdb-be-aware-of-csgo-scam-websites), with a couple of personally found scam websites.
