@@ -107,6 +107,10 @@ d2bingo.ru
 d2bingo.com
 bestskinsdota2.pro
 bestdota2arcana.tk
+d2shot.com
+csgoma9ic.pro
+dota2buf.com
+dota2bit.online
 ! ↓  Custom Domains ↓
 tf2pounce.com
 tf2winner.com
@@ -200,6 +204,9 @@ csgolounge.exchange
 csgomagic.icu
 tf2hunt.com
 bestskins.su
+csgoskinz.fun
+csgodiggy.fun
+pvpro.com
 ! ↓ Sourced from https://csgobet.click/csgobet-scamdb-be-aware-of-csgo-scam-websites ↓
 csgofasthack.hostingas.in
 csgocape.com
@@ -537,6 +544,8 @@ csgorow.com
 skins-lucker.com
 csgomax.online
 forceskins.com
+csgoforg.com
+fastgameit.com
 ! ↓ Sourced from https://hexxiumcreations.github.io/threat-list ↓
 csgo-emerald.com
 csgoninja.fun
