@@ -1,7 +1,7 @@
 ! Title: Steam Scam Site
-! Last modified: 2 Mar 2019
+! Last modified: 3 Aug 2019
 ! License: Do What The F*ck You Want To Public License
-! Expires: 7 days
+! Expires: 30 days
 ! Homepage: https://poorpocketsmcnewhold.github.io/SteamScamSites
 ! Filter page: https://github.com/PoorPocketsMcNewHold/steamscamsite
 ! Original list: https://github.com/wishihab/steamscamsite
@@ -118,6 +118,12 @@ dota2items.pro
 skinsrewards.com
 dotaserveerr.fun
 dotamike.fun
+mixtourney.com
+dota2.cf
+dota2drop.pro
+dota2land.site
+dota2-raffle.site
+skisn-cash.pw
 ! ↓  Custom Domains ↓
 tf2pounce.com
 tf2winner.com
@@ -248,6 +254,7 @@ bonusknife.com
 vidanko1.blogspot.com
 total-xdrop.com
 nightcase.fun
+0nekey.com
 ! ↓ Sourced from https://csgobet.click/csgobet-scamdb-be-aware-of-csgo-scam-websites ↓
 csgofasthack.hostingas.in
 csgocape.com
@@ -392,7 +399,6 @@ csgoldpot.com
 csgo-lobby.com
 csgoloot.com
 csgo-lottery.com
-csgolounge.com
 csgolucky.com
 csgoluckywheel.com
 csgomars.com
@@ -587,6 +593,11 @@ csgomax.online
 forceskins.com
 csgoforg.com
 fastgameit.com
+csgodear.com
+csgolounge.cash
+csgolounge.money
+knife-winner.space
+rollmango.com
 ! ↓ Sourced from https://hexxiumcreations.github.io/threat-list ↓
 csgo-emerald.com
 csgoninja.fun
@@ -959,3 +970,36 @@ stonegamble.com
 csgoprice.net
 steamanalyst.de
 gamexroulette.com
+giftcardrebel.com
+getsteambonus.com
+getsteamgifts.com
+guccidrop.top
+steamcodegenerator.xyz
+windatgamex.com	
+spindatgamex.com
+mygiveawayitem.com
+disgamerollx.com
+csgomagic.co
+tf2win.com
+exx-skins.com
+csgoben.com
+dota2-pudge.site
+wavescase.com
+goxdrop.com
+rafflegiveaway.com
+bestcases.life
+goupskins.com
+forceskins.com
+skinshall.com
+dota2prime.com
+high-skins.com
+steamstark.com
+dota2sat.com
+skinstun.com
+dota2fox.com
+xrollsdatgame.com
+tf2phoenix.com
+tradeskinnow.com
+runitem.com
+oldgameit.com
+tf2swift.com
