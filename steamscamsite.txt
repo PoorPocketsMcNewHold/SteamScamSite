@@ -1,7 +1,7 @@
 ! Title: Steam Scam Site
-! Last modified: 3 Aug 2019
+! Last modified: 2 Mar 2019
 ! License: Do What The F*ck You Want To Public License
-! Expires: 30 days
+! Expires: 7 days
 ! Homepage: https://poorpocketsmcnewhold.github.io/SteamScamSites
 ! Filter page: https://github.com/PoorPocketsMcNewHold/steamscamsite
 ! Original list: https://github.com/wishihab/steamscamsite
@@ -974,8 +974,6 @@ giftcardrebel.com
 getsteambonus.com
 getsteamgifts.com
 guccidrop.top
-steamcodegenerator.xyz
-windatgamex.com	
 spindatgamex.com
 mygiveawayitem.com
 disgamerollx.com
@@ -989,7 +987,6 @@ goxdrop.com
 rafflegiveaway.com
 bestcases.life
 goupskins.com
-forceskins.com
 skinshall.com
 dota2prime.com
 high-skins.com
