@@ -1,7 +1,6 @@
 ! Title: Steam Scam Site
-! Last modified: 2 Mar 2019
+! Last modified: 26 Aug 2019
 ! License: Do What The F*ck You Want To Public License
-! Expires: 7 days
 ! Homepage: https://poorpocketsmcnewhold.github.io/SteamScamSites
 ! Filter page: https://github.com/PoorPocketsMcNewHold/steamscamsite
 ! Original list: https://github.com/wishihab/steamscamsite
@@ -255,6 +254,7 @@ vidanko1.blogspot.com
 total-xdrop.com
 nightcase.fun
 0nekey.com
+cn-pubgdrop.tk
 ! ↓ Sourced from https://csgobet.click/csgobet-scamdb-be-aware-of-csgo-scam-websites ↓
 csgofasthack.hostingas.in
 csgocape.com
@@ -459,7 +459,6 @@ egamingbets.com
 keypacks.com
 eqraffle.com
 ezskinz.org
-g2a.com
 gamblecsgo.com
 gg4t.com
 good-gabe.com
