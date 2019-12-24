@@ -1,5 +1,5 @@
 ! Title: Steam Scam Site
-! Last modified: 21 Dec 2019
+! Last modified: 24 Dec 2019
 ! License: Do What The F*ck You Want To Public License
 ! Homepage: https://poorpocketsmcnewhold.github.io/SteamScamSites
 ! Filter page: https://github.com/PoorPocketsMcNewHold/steamscamsite
@@ -123,6 +123,16 @@ dota2drop.pro
 dota2land.site
 dota2-raffle.site
 skisn-cash.pw
+dota2lin.fun
+boubleroll.fun
+dota2-vesi.site
+dota2-vesi.fun
+vpgame.pw
+skins-lootbox.info
+dota2-pill.fun
+dota2-trill.site
+dota-skins.info
+mixtourney.com
 ! ↓  Custom Domains ↓
 tf2pounce.com
 tf2winner.com
@@ -259,6 +269,7 @@ goodxgetgame.com
 steamgameskeys.com
 keys-store.com
 game-box.fun
+keys-games.fun
 ! ↓ Sourced from https://csgobet.click/csgobet-scamdb-be-aware-of-csgo-scam-websites ↓
 csgofasthack.hostingas.in
 csgocape.com
@@ -1003,3 +1014,15 @@ tradeskinnow.com
 runitem.com
 oldgameit.com
 tf2swift.com
+csgoreverser.gq
+casebanana.com
+csgoextent.com
+strong-skins.com
+goldloot.su
+csmegacup.com
+caseflip.fun
+empiremore.com
+skinstag.com
+csgoitems.tk
+moonroll.fun
+magictop.pro
