@@ -85,7 +85,6 @@ dota2-buff.com
 xbet-rampage.com
 lomantinakolava.xyz
 steampowerod.com
-market.steampowerod.com
 gitcoin.su
 dropxskin.com
 csgoden.pro
@@ -132,7 +131,6 @@ skins-lootbox.info
 dota2-pill.fun
 dota2-trill.site
 dota-skins.info
-mixtourney.com
 ! ↓  Custom Domains ↓
 tf2pounce.com
 tf2winner.com
@@ -210,7 +208,6 @@ takethestairs.today
 vgoarena.com
 e-cda.ml
 pinnacle.com
-csgo.steamanalyst.com
 fluffydrop.com
 drakedrop.com
 slamdrop.com
@@ -305,8 +302,6 @@ steampromote.com
 steamreserved.com
 steam-codes.com
 steamquests.com
-gift.steamchristmas.com
-codes.steamquests.com
 freesteamcodes.net
 steamingame.com
 mysteamgifts.com
@@ -504,7 +499,6 @@ steamanalyst.com
 steamloto.org
 steampoker.com
 stonefire.io
-trade.sociusgaming.com
 winaskin.com
 hell-skins.com
 amdrops.com
@@ -837,7 +831,6 @@ betfarm.top
 stelfarm.top
 steamgifts.co
 steamwallethack.net
-getsteambonus.com
 steamrepo.com
 steamwalletcodegenerator.pro
 csmoney.es
@@ -987,10 +980,6 @@ steamanalyst.de
 gamexroulette.com
 giftcardrebel.com
 getsteambonus.com
-getsteamgifts.com
-guccidrop.top
-spindatgamex.com
-mygiveawayitem.com
 disgamerollx.com
 csgomagic.co
 tf2win.com
