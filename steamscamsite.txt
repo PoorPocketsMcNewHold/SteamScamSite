@@ -1,5 +1,5 @@
 ! Title: Steam Scam Site
-! Last modified: 17 May 2023
+! Last modified: 23 May 2023
 ! License: Do What The F*ck You Want To Public License
 ! Homepage: https://poorpocketsmcnewhold.github.io/SteamScamSites
 ! Filter page: https://github.com/PoorPocketsMcNewHold/steamscamsite
@@ -49,7 +49,6 @@ steamcommumuly.com
 lovdsjlmaemy.xyz
 steanconnunity.com
 steeamcomunibbngo.live
-lootlfarm.com
 dota-crit.com
 miwithiutdoodo.xyz
 steamconmnumity.com
